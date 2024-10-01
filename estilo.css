@@ -13,7 +13,7 @@ body {
 }
 h1 {
   color: #229799;
-  font-size: 30px;
+  font-size: 32px;
 }
 #Sobre {
   color: #F5F5F5;
@@ -130,11 +130,12 @@ h1 {
   display: block;
 }
 .main-content .text-section {
-  height: 45dvh;
+  height: 55dvh;
   padding: 20px;
   margin-top: 20px;
   margin-bottom: 20px;
   border-radius: 20px;
+  font-size: 19px;
 }
 .main-content .video-section iframe {
   max-width: 100%;
